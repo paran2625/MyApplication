@@ -27,7 +27,7 @@ public class Test {
         Map<String, Object> user = new HashMap<>();
 
         // 各フィールドのキー・値を指定
-        user.put("NAME", "PARAN2");
+        user.put("NAME", "PARAN3");
         user.put("AGE", 26);
         user.put("HEIGHT", 170);
 
